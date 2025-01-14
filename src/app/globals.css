@@ -46,13 +46,14 @@ h6 {
   font-family: "Plus Jakarta Sans", serif;
 }
 
+.ant-tabs-tabpane p,
 .ant-modal-body label {
   font-family: "Work Sans", serif;
 }
 
+.ant-tabs-tabpane h4,
 .ant-modal-body button,
 .ant-modal-body h1,
-.ant-modal-body h2
-.ant-modal-body h3 {
-  font-family: "Plus Jakarta Sans", serif;
+.ant-modal-body h2 .ant-modal-body h3 {
+  font-family: "Plus Jakarta Sans", serif !important;
 }

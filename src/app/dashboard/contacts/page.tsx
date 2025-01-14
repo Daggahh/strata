@@ -31,7 +31,7 @@ const ContactUs = () => {
 
             <Modal open={openNewContactModal} onCancel={toggleNewContactModal} footer={null}>
                 <div>
-                    <h3 className="text-xl font-medium mb-7 block text-center">Add New Job Contact</h3>
+                    <h3 className="text-xl font-bold mb-7 block text-center">Add New Job Contact</h3>
                     <form action="" onSubmit={handleSubmit(handleAddNewContactForm)}>
                         <div className="grid grid-cols-2 gap-3 mb-4">
                             <div className="form-group">

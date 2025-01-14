@@ -68,7 +68,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="pt-32 px-20">
+          {/* <div className="pt-32 px-20">
             <div className="grid grid-cols-2 gap-24">
               <div className="h-full w-full bg-white rounded-2xl"></div>
               <div>
@@ -188,7 +188,7 @@ export default function Home() {
                 <button className="bg-black py-5 w-full text-white rounded-lg text-sm">Apply for Job</button>
               </div>
             </div>
-          </div>
+          </div> */}
         </>
       </DisplayLayout>
     </div>
