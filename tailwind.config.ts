@@ -11,7 +11,15 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        main: "var(--main)",
+        offmain: "#FED1B0"
       },
+      fontWeight: {
+        600: "600"
+      },
+      gridTemplateColumns: {
+        "1.5/2/1": "1.5fr 2fr 1fr"
+      }
     },
   },
   plugins: [],
